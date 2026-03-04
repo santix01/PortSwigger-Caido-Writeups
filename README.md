@@ -1,6 +1,6 @@
 # 🛡️ Portafolio de Ciberseguridad: Web Security Write-ups
 
-Bienvenido a mi repositorio de prácticas de Hacking Web. Como estudiante de Ingeniería Electrónica enfocado en el área de la ciberseguridad, he creado este espacio para documentar mis resoluciones paso a paso (*write-ups*) de los laboratorios de la **Web Security Academy de PortSwigger**.
+Bienvenido a mi repositorio de prácticas de Hacking Web. Como Ingeniero Electrónico enfocado en el área de la ciberseguridad, he creado este espacio para documentar mis resoluciones paso a paso (*write-ups*) de los laboratorios de la **Web Security Academy de PortSwigger**.
 
 El objetivo principal de este repositorio es demostrar de forma práctica el proceso de análisis, explotación de diversas vulnerabilidades web y la explicación de sus respectivas medidas de mitigación.
 
